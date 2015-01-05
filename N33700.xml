@@ -111,8 +111,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:044208_0000_101DDBC30CC3CAB0"/>
-            <pb facs="tcp:044208_0001_101DDBC797F3B2D8"/>
+            <pb facs="unknown:044208_0000_101DDBC30CC3CAB0"/>
+            <pb facs="unknown:044208_0001_101DDBC797F3B2D8"/>
             <p>A POEM, ON THE UNSUCCESSFUL MEASURES. TAKEN BY THE BRITISH ARMY; In order to Enſlave and Deſtroy the UNI<g ref="char:EOLhyphen"/>TED STATE<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> 
@@ -129,7 +129,7 @@
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:044208_0002_101DDBC923217C08"/>
+            <pb facs="unknown:044208_0002_101DDBC923217C08"/>
             <head>A POEM, &amp;c.</head>
             <lg>
                <l>AWAKE, awake, my drowſy muſe,</l>
@@ -246,7 +246,7 @@
                      <desc>••</desc>
                   </gap>d</l>
                <l>
-                  <pb n="3" facs="tcp:044208_0003_101DDBCC0D54FE90"/>
+                  <pb n="3" facs="unknown:044208_0003_101DDBCC0D54FE90"/>
 To make his finger prove more thick</l>
                <l>Than was his father's loin.</l>
             </lg>
@@ -318,7 +318,7 @@ To make his finger prove more thick</l>
                <l>Of her once render mother.</l>
             </lg>
             <lg n="19">
-               <pb n="4" facs="tcp:044208_0004_101DDBCD97016F50"/>
+               <pb n="4" facs="unknown:044208_0004_101DDBCD97016F50"/>
                <head>19.</head>
                <l>Now ſhe's condemn'd to puniſhment,</l>
                <l>Not for one ſingle crime;</l>
@@ -408,7 +408,7 @@ To make his finger prove more thick</l>
                <l>Others are wounded on the way,</l>
                <l>And ſome get back again;</l>
                <l>
-                  <pb n="5" facs="tcp:044208_0005_101DDBCF20D68268"/>
+                  <pb n="5" facs="unknown:044208_0005_101DDBCF20D68268"/>
 Perhaps they had not yet fill'd up</l>
                <l>The meaſure of their ſin.</l>
             </lg>
@@ -478,7 +478,7 @@ Perhaps they had not yet fill'd up</l>
                <l>Whoſe plagues come in an hour.</l>
             </lg>
             <lg n="38">
-               <pb n="6" facs="tcp:044208_0006_101DDBD290C964D0"/>
+               <pb n="6" facs="unknown:044208_0006_101DDBD290C964D0"/>
                <head>38.</head>
                <l>Our troops advanc'd on Docheſter;</l>
                <l>Terrors do pierce them thro'</l>
@@ -546,7 +546,7 @@ Perhaps they had not yet fill'd up</l>
                <l>But oh! the wretched fruits of pride,</l>
                <l>That bears the piſonous ſeed!</l>
                <l>
-                  <pb n="7" facs="tcp:044208_0007_101DDBD999DA9760"/>
+                  <pb n="7" facs="unknown:044208_0007_101DDBD999DA9760"/>
 We tho't our hand, and not the Lord's,</l>
                <l>Had done this mighty deed.</l>
             </lg>
@@ -640,7 +640,7 @@ We tho't our hand, and not the Lord's,</l>
                   </gap>.</l>
             </lg>
             <lg n="57">
-               <pb n="8" facs="tcp:044208_0008_101DDBDB2331FAB0"/>
+               <pb n="8" facs="unknown:044208_0008_101DDBDB2331FAB0"/>
                <head>57.</head>
                <l>This is an awful fight indeed,</l>
                <l>Alas! the dreadful day!</l>
@@ -723,7 +723,7 @@ We tho't our hand, and not the Lord's,</l>
                      <desc>〈◊〉</desc>
                   </gap>.</l>
                <l>
-                  <pb n="9" facs="tcp:044208_0009_101DDBDCADF388D8"/>
+                  <pb n="9" facs="unknown:044208_0009_101DDBDCADF388D8"/>
 He loſes men where'er he goes,</l>
                <l>No conqueſt gains at all.</l>
             </lg>
@@ -793,7 +793,7 @@ He loſes men where'er he goes,</l>
                <l>But ſpend his maſter's money.</l>
             </lg>
             <lg n="76">
-               <pb n="10" facs="tcp:044208_0010_101DBB4F9355B8E8"/>
+               <pb n="10" facs="unknown:044208_0010_101DBB4F9355B8E8"/>
                <head>76.</head>
                <l>At length he rouſes up again,</l>
                <l>Scours up his ruſty gun;</l>
@@ -904,7 +904,7 @@ He loſes men where'er he goes,</l>
                   </gap>k and gloomy day,</l>
                <l>Our hearts are fill'd with fear,</l>
                <l>
-                  <pb n="11" facs="tcp:044208_0011_101DDBE669A2F750"/>
+                  <pb n="11" facs="unknown:044208_0011_101DDBE669A2F750"/>
 Anxious for life and liberty,</l>
                <l>To us equally dear.</l>
             </lg>
@@ -996,7 +996,7 @@ Anxious for life and liberty,</l>
                <l>Who Iſrael's God defi'd.</l>
             </lg>
             <lg n="85, i.e. 95">
-               <pb n="12" facs="tcp:044208_0012_101DDBE7F1E88128"/>
+               <pb n="12" facs="unknown:044208_0012_101DDBE7F1E88128"/>
                <head>85.</head>
                <l>Where pride is rooted in the heart,</l>
                <l>It does for ruin call;</l>
@@ -1064,7 +1064,7 @@ Anxious for life and liberty,</l>
                <l>Inſtead of joy and triumph ſongs,</l>
                <l>Drinking each other's health,</l>
                <l>
-                  <pb n="13" facs="tcp:044208_0013_101DDBE991B71C48"/>
+                  <pb n="13" facs="unknown:044208_0013_101DDBE991B71C48"/>
 Plund'ring and robbing, getting rich,</l>
                <l>By their ill-gotten wealth.</l>
             </lg>
@@ -1134,7 +1134,7 @@ Plund'ring and robbing, getting rich,</l>
                <l>Takes off their chariot wheels.</l>
             </lg>
             <lg n="104, i.e. 114">
-               <pb n="14" facs="tcp:044208_0014_101DDBEB377F88E8"/>
+               <pb n="14" facs="unknown:044208_0014_101DDBEB377F88E8"/>
                <head>104.</head>
                <l>Methinks I hear poor Burgoyne ſay</l>
                <l>"We drag on heavily!</l>
@@ -1206,7 +1206,7 @@ Plund'ring and robbing, getting rich,</l>
                <l>In vain unjuſt and wicked laws</l>
                <l>Came from a potent king;</l>
                <l>
-                  <pb n="15" facs="tcp:044208_0015_101DDBF0E7B38F18"/>
+                  <pb n="15" facs="unknown:044208_0015_101DDBF0E7B38F18"/>
 If that the God of heav'n and earth</l>
                <l>Don't countenance the thing.</l>
             </lg>
@@ -1274,7 +1274,7 @@ If that the God of heav'n and earth</l>
                <l>And break the tyrants chains.</l>
             </lg>
             <lg n="123, i.e. 133">
-               <pb n="16" facs="tcp:044208_0016_101DDBF3DE93BA70"/>
+               <pb n="16" facs="unknown:044208_0016_101DDBF3DE93BA70"/>
                <head>123.</head>
                <l>Many a perſecuting wave,</l>
                <l>This woman may endure;</l>
